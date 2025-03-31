@@ -16,7 +16,7 @@
 
 ## 개요
 로봇학실험3 강의에서는 MATLAB과 Atmega128의 활용, 필터링, 센서 제어 등을 배웠다. 이들을 종합하여 하나의 결과물을 만드는 것이 Final Term Project의 목표였다.
-- **기간**: 2020.03-2020.06
+- **기간**: 2021.03-2021.06
 - **팀원 & 역할 분담**:
   - [장우현](https://github.com/dngus1683): HC-SR04 초음파 센서, CZN-15E 사운드 센서, CDS.
   - [허정범](https://github.com/okpocandy): FSR-400 압력센서, Thermister 온도센서, ADC 가변저항  
